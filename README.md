@@ -13,7 +13,7 @@ Original File: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUC
 
 Particular |   Link
 -----------|-------------
-Read me    | [README.md]
-R script   | [run_analysis.R]
-Tidy data  | [tidy_data.txt]
-Cook book  | [cookbook.md]
+Read me    | (README.md)
+R script   | (run_analysis.R)
+Tidy data  | (tidy_data.txt)
+Cook book  | (cookbook.md)
