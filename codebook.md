@@ -1,6 +1,6 @@
 # CodeBook
 
-## Author Shivaprasad M
+## Author: Shivaprasad M
 
 ## Description:
 This is the code book provides additional information about the data, variables and data transformation methodology used to clean up the given dataset.
